@@ -4,3 +4,4 @@ Git is a distributed version control system.
 hello world
 ni hao
 python
+soeme string from dev.
